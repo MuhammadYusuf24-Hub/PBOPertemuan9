@@ -84,21 +84,20 @@ JDesktopLayout atau lebih tepatnya JDesktopPane adalah komponen dalam Java Swing
 
 
 16.	Buat button cetak pada design Jframe
+ <img width="809" height="567" alt="image" src="https://github.com/user-attachments/assets/955d13c0-e71d-4348-a49e-408cbb35a020" />
+
+
+17.	Kemudian pada button cetak tambahkan program berikut 
  <img width="839" height="296" alt="image" src="https://github.com/user-attachments/assets/172905be-2a22-436e-a384-5c992d3fe851" />
 
 
-17.	Kemudian pada button cetak tambahkan program berikut dan sesuaikan dengan 
- <img width="620" height="38" alt="image" src="https://github.com/user-attachments/assets/1c029a56-3091-433e-89de-42768a9f174c" />
-
-
 18.	Tambahkan import net.sf.jasperreports.engine.JRException pada bagian atas program 
+ <img width="620" height="38" alt="image" src="https://github.com/user-attachments/assets/cd90069b-63d4-42d2-b845-2cde639cdfcb" />  
+
+
+kemudian download dan tambahkan library berikut     
  <img width="384" height="291" alt="image" src="https://github.com/user-attachments/assets/0f9d99d0-d946-44c4-88f8-8555bc066855" />
 
-kemudian download dan tambahkan library berikut 
- <img width="940" height="681" alt="image" src="https://github.com/user-attachments/assets/c4ac8466-9b30-472c-994a-d6a51c440913" />
-
-
 19.	Kemudian jalankan program Jframe dan klik button cetak, akan muncul Tampilan Jasper Reports yang tadi telah dibuat 
- <img width="809" height="567" alt="image" src="https://github.com/user-attachments/assets/3a814289-e081-457d-81ac-4465e206d248" />
-
+  <img width="940" height="681" alt="image" src="https://github.com/user-attachments/assets/c4ac8466-9b30-472c-994a-d6a51c440913" />
 
