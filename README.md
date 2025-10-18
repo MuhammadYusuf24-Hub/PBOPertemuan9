@@ -30,3 +30,4 @@ JDesktopLayout atau lebih tepatnya JDesktopPane adalah komponen dalam Java Swing
 - Menampung beberapa JInternalFrame (jendela kecil di dalam satu jendela utama).  
 
 - Cocok untuk aplikasi besar seperti sistem kasir, manajemen data, atau sistem laporan, di mana banyak form atau laporan bisa dibuka bersamaan.  
+# Langkah - Langkah Project
